@@ -41,8 +41,9 @@
 #include <GL/glx.h>
 #include "ppm.h"
 #include "log.h"
+#include "davis.h"
 extern "C" {
-	#include "fonts.h"
+#include "fonts.h"
 }
 
 //defined types
